@@ -1,0 +1,10 @@
+com\tendencias\app\Usuarios\controller\UsuarioController.class
+com\tendencias\app\Usuarios\service\GenericService.class
+com\tendencias\app\Usuarios\service\GenericServiceImpl.class
+com\tendencias\app\Usuarios\service\S3Service.class
+com\tendencias\app\Usuarios\UsuariosApplication.class
+com\tendencias\app\Usuarios\controller\AssetController.class
+com\tendencias\app\Usuarios\service\UsuarioServiceImpl.class
+com\tendencias\app\Usuarios\model\vm\Asset.class
+com\tendencias\app\Usuarios\repository\UsuarioRepository.class
+com\tendencias\app\Usuarios\model\Usuario.class
